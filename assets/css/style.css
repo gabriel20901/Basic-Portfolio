@@ -1,0 +1,33 @@
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: grey;
+  }
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, sans-serif;
+    color: teal;
+    width: 25px;
+    height: 25px;
+    display: block;
+}
+
+h2{
+    font-family: 'Georgia', Times, Times New Roman, sans-serif;
+    color: teal;
+}
+
+a:hover{
+    color: pink;
+}
+
+iframe{
+    float: right;
+}
+
+body {
+    background-image: none;
+}
+
+header {
+
+}
